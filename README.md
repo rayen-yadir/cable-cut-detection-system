@@ -110,7 +110,9 @@ Les schémas électriques et plans de routage ont été réalisés sous **Eagle 
 | Émetteur | Récepteur |
 |---|---|
 | ![Schéma émetteur](images/fig4.19_schema_emetteur_eagle.png) | ![Schéma récepteur](images/fig4.21_schema_recepteur_eagle.png) |
-| ![PCB émetteur](images/fig4.20_pcb_emetteur_layout.jpg) | ![PCB récepteur](images/fig4.22_pcb_recepteur_layout.png) |
+| <img width="555" height="361" alt="imagesfig4 20_pcb_emetteur_layout" src="https://github.com/user-attachments/assets/f503ca44-4fbf-4eef-a240-7439532cd04d" />
+|<img width="993" height="535" alt="Capture d&#39;écran 2026-06-20 200850" src="https://github.com/user-attachments/assets/b181fb74-2af3-48a6-a1de-f4f38cd07f25" />
+ |
 
 Le fichier source Eagle (`.sch`) est disponible dans [`/eagle`](eagle/).
 
