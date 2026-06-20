@@ -166,3 +166,6 @@ cable-cut-detector/
 
 1. Oscillateur RC — fmuser.net
 2. Tore en Ferrite — sonelecmusique.com
+
+**Auteurs :** Rayen Yadir
+**Encadrant :** M. Férid Kourda — École Nationale d'Ingénieurs de Tunis (ENIT)
