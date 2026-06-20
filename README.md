@@ -144,10 +144,10 @@ Le fichier source Eagle (`.sch`) est disponible dans [`/eagle`](eagle/).
 ```
 cable-cut-detector/
 ├── docs/
-│   ├── Rapport_PFA_IS_RY.pdf            # Rapport complet du projet
+│   ├── Rapport_PFA.pdf            # Rapport complet du projet
 │   └── Simu-Impec-...docx                # Annexe simulation/impédance
 ├── eagle/
-│   └── Alarme-24Sep22-Islem-Rayen.sch    # Schéma Eagle source
+│   └── Alarme.sch    # Schéma Eagle source
 ├── images/                                # Figures du rapport (schémas, PCB, mesures)
 └── README.md
 ```
