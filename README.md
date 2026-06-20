@@ -2,7 +2,7 @@
 
 > Projet de Fin d'Année (ENIT — 2ᵉ Année Génie Électrique) — Détection instantanée de coupure de câbles électriques en cuivre par injection de signal haute fréquence, avec alarme dissuasive automatique.
 
-**Auteurs :** Rayen Yadir, Islem Trojette
+**Auteurs :** Rayen Yadir
 **Encadrant :** M. Férid Kourda — École Nationale d'Ingénieurs de Tunis (ENIT)
 
 ---
